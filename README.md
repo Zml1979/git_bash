@@ -1,5 +1,6 @@
-# Работа с git и bash
+[bash1.txt.txt](https://github.com/user-attachments/files/21078264/bash1.txt.txt)# Работа с git и bash
 
-[bash1.txt](https://github.com/user-attachments/files/21078250/bash1.txt)
+[Uploading[bash2.txt.txt](https://github.com/user-attachments/files/21078268/bash2.txt.txt) bash1.txt.txt…]()
 
-[bash2.txt](https://github.com/user-attachments/files/21078251/bash2.txt)
+
+
